@@ -1,0 +1,44 @@
+/* Services Section
+--------------------------------*/
+#services {
+    background: #fff;
+    background-size: cover;
+    padding: 60px 0 40px 0;
+  }
+  
+  #services .box {
+    margin-bottom: 30px;
+  }
+  
+  #services .icon {
+    float: left;
+  }
+  
+  #services .icon i {
+    color: #d24a18;
+    font-size: 36px;
+    line-height: 0;
+    transition: 0.5s;
+  }
+  
+  #services .title {
+    margin-left: 60px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  #services .title a {
+    color: #111;
+  }
+  
+  #services .box:hover .title a {
+    color: #d24a18;
+  }
+  
+  #services .description {
+    font-size: 14px;
+    margin-left: 60px;
+    line-height: 24px;
+    margin-bottom: 0;
+  }
