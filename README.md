@@ -34,7 +34,7 @@ etc..
 1. Clone the repository:
 
 
-   git clone https://github.com/your-username/MySoft.git
+   git clone https://github.com/NaimiNour/MySoft.git
    cd MySoft
    ```
 
